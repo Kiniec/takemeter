@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 1.0,
+  "finetuned_accuracy": 0.5,
+  "improvement": -0.5,
+  "test_set_size": 30,
+  "label_map": {
+    "people": 0,
+    "objects": 1,
+    "systems": 2,
+    "ideas": 3
+  },
+  "model": "distilbert-base-uncased"
+}
